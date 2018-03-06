@@ -1,0 +1,4 @@
+untuk petunjuk penempatan file (dengan netbeans 8.0/ package php)
+masukan file bootstrap.css dan floating-table.css ke folder assets/css
+masukan file .svg dan .ico ke folder assets/image pada folder project netbeans
+lalu tulis kode index.php dan login.php untuk membuat dan memahami halaman login tersebut
